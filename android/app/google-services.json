@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "316782665003",
+    "project_id": "flash-chat-f605a",
+    "storage_bucket": "flash-chat-f605a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316782665003:android:7769d664ed42e0a242b96e",
+        "android_client_info": {
+          "package_name": "co.sanjana.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316782665003-k703tuhah1niq56fadfo5p81hne06n55.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjwC-peXkkyZ49NOTekbDlQ711J40Hnvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316782665003-k703tuhah1niq56fadfo5p81hne06n55.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
